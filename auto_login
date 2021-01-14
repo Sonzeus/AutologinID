@@ -1,7 +1,7 @@
 #!/bin/sh
 # ===========================================
-# Autologin by sutendi
-# Link github : https://github.com/dedisutendi
+# Autologin by ozzan
+# Link github : https://github.com/Sonzeus
 # Copy ke folder Root OpenWrt
 # chmod 755 auto_login atau chmod +x auto_login 
 # ./auto_login install
